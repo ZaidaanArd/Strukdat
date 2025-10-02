@@ -5,7 +5,7 @@
 /* Program   : tqueue.h */
 /* Deskripsi : ADT Queue representasi kontigu dengan array,
                model I: head selalu di posisi 0 atau 1 */
-/* NIM/Nama  : 24060124120013/Muhamad Kemal Faza*/
+/* NIM/Nama  : 24060124140200 - Muhammad Zaidaan Ardiyansyah*/
 /* Tanggal   : 02-10-2025*/
 /***********************************/
 

@@ -5,7 +5,7 @@
 /* Program   : tqueue2.h */
 /* Deskripsi : ADT Queue representasi kontigu dengan array,
                model II: head bergeser/jelajah */
-/* NIM/Nama  : 24060124120013/Muhamad Kemal Faza*/
+/* NIM/Nama  : 24060124140200 - Muhammad Zaidaan Ardiyansyah*/
 /* Tanggal   : 02-10-2025*/
 /***********************************/
 
