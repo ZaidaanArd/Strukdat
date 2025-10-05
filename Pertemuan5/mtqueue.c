@@ -63,5 +63,32 @@ int main() {
     printf("Q2: ");
     printQueue(Q2);
     
+    printf("=== Dequeue2 ===\n");
+    dequeue2(&Q1, &Q2, &e);
+    printf("dequeue2 -> %c\n", e);
+    printf("Q1: ");
+    printQueue(Q1);
+    printf("Q2: ");
+    printQueue(Q2);
+    dequeue2(&Q1, &Q2, &e);
+    printf("dequeue2 -> %c\n", e);
+    printf("Q1: ");
+    printQueue(Q1);
+    printf("Q2: ");
+    printQueue(Q2);
+    dequeue2(&Q1, &Q2, &e);
+    printf("dequeue2 -> %c\n", e);
+    printf("Q1: ");
+    printQueue(Q1);
+    printf("Q2: ");
+    printQueue(Q2);
+    dequeue2(&Q1, &Q2, &e);
+    printf("dequeue2 -> %c\n", e);
+    printf("Q1: ");
+    printQueue(Q1);
+    printf("Q2: ");
+    printQueue(Q2);
+
+    return 0;
 
 };
