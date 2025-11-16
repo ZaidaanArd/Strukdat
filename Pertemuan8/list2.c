@@ -1,3 +1,8 @@
+/* File : List2.c */
+/* Deskripsi : ADT list berkait SIRKULAR dengan representasi fisik pointer */
+/* NIM & Nama : 24060124140200 & Muhammad Zaidaan Ardiyansyah*/
+/* Tanggal : 16 November 2025 */
+
 #include "list2.h"
 #include <stdio.h>
 #include <stdlib.h>
